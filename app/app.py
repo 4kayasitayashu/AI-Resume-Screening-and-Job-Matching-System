@@ -534,6 +534,4 @@ if "result" in st.session_state:
 
     st.divider()
 
-    st.caption(
-        "Developed by Shivansh Srivastava | AI Resume Screening & Job Matching System"
-)
+   
